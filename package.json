@@ -1,9 +1,9 @@
 {
-  "name": "delegated-events",
+  "name": "@mangoweb/delegated-events",
   "version": "2.0.0",
   "description": "A small, fast delegated event library.",
   "license": "MIT",
-  "repository": "dgraham/delegated-events",
+  "repository": "manGoweb/delegated-events",
   "main": "dist/index.umd.js",
   "module": "dist/index.esm.js",
   "types": "index.d.ts",
